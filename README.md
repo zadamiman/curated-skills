@@ -1,2 +1,6 @@
-# curated-skills
-Curated collection of agent skills and tool references
+# Curated Skills
+
+Daftar judul skill, framework, dan referensi tool AI yang telah dikurasi.
+
+## Skills & Frameworks
+- Hypit
